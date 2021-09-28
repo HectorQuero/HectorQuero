@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HectorQuero
 - 👀 I’m interested in Series and Movies
 - 🌱 I’m currently learning about Social Topics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 HectorQuero/HectorQuero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
